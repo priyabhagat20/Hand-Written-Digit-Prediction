@@ -1,4 +1,3 @@
-# Hand_Written_Digit_Prediction
 # Hand-Written-Digit-Prediction
 1. **Objective**
 
